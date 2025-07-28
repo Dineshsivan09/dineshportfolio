@@ -1,2 +1,2 @@
-# dineshportfolio
-this my portfoilio
+# MyPortfolio
+MyPortfolio as a Ui/Ux Designer
